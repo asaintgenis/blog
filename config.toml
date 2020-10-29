@@ -1,4 +1,12 @@
 baseURL = "https://blog.codeshuffle.org/"
 languageCode = "en-us"
 title = "Little throughts"
-theme = "ananke"
+theme = "terminal"
+
+[params]
+    themeColor= "pink"
+    showMenuItems = 2
+    showLanguageSelector = false
+    fullWidthTheme = false
+    centerTheme = false
+    showLastUpdate = false
