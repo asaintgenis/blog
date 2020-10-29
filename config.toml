@@ -1,0 +1,4 @@
+baseURL = "https://codeshuffle.org/"
+languageCode = "en-us"
+title = "Little throughts"
+theme = "ananke"
